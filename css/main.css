@@ -1,0 +1,62 @@
+body{
+    background-color: aqua;
+}
+main{
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.container{
+    display: flex;
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.input-box{
+    width: 400px;
+}
+
+.card-box{
+    width: 400px;
+}
+
+.card_box-link{
+    background-color: red;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main__bix_box{
+    margin-left: 30px;
+}
+
+.alert-box{
+    width: 800px;
+}
+
+.img-cap{
+    display: flex;
+}
+
+.card-img{
+    margin-right: 2rem;
+}
+
+.nomber-box{
+    margin-left: 330px;
+    margin-top: 50px;
+}
+
+.btn{
+    border: 1px solid #f8f9fa;
+}
